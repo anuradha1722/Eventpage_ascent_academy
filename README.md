@@ -1,1 +1,2 @@
 # Eventpage_ascent_academy
+Built an event page using HTML and CSS, making it look good on all devices. Created a clear and easy-to-navigate layout to display event details like the schedule, speakers, and how to register. Styled the page with custom colors and fonts to match the event's branding. Added animations and hover effects to make the page more interactive. Optimized the page for quick loading and tested it to work well on different browsers. Improved the design to ensure a great user experience.
